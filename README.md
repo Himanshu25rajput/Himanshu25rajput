@@ -2,9 +2,6 @@
 <p align="center">
 I am Himanshu Rajput, currently in the final year of my MCA from ITM University, Gwalior.I am a tech savant and always open to collaborating on projects and innovative ideas. Currently, I am an learning Android Development new stuff like Jetpack Compose and KTOR.
  
-<div align="center">
-  <img src ="./HIMANSHU RAJPUT.jpg" />
- </div>
 
 
 
