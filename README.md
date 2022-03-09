@@ -18,7 +18,7 @@ I am Himanshu Rajput, currently in the final year of my MCA from ITM University,
 ### Language :
 ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=kotlin)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![C](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![HTML](https://img.shields.io/badge/-HTML-4a4e69?style=flat-square&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-006d77?style=flat-square&logo=CSS3)
 
