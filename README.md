@@ -1,4 +1,4 @@
-# Hi, I am Himaanshu Rajput! Great to see you here!
+# Hi, I am Himaanshu Rajput! Great to see you here!<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 <p align="center">
 I am Himanshu Rajput, currently in the final year of my MCA from ITM University, Gwalior.I am a tech savant and always open to collaborating on projects and innovative ideas. Currently, I am an learning Android Development new stuff like Jetpack Compose and KTOR.
 
