@@ -9,7 +9,7 @@ I am Himanshu Rajput, currently in the final year of my MCA from ITM University,
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-rajput-aa7646108/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HimansJoy)
 [![Gmail Badge](https://img.shields.io/badge/-rajput25.himanshu1@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:rajput25.himanshu@gmail.com)
-[![Resume Badge](https://img.shields.io/badge/Resume-Devanshu%20Chauhan-343a40?labelColor=4d908e)](https://drive.google.com/file/d/16PIGJT7fmSuUiSUNAm1sNFaAYHqUCcnu/view?usp=sharing)
+[![Resume Badge](https://img.shields.io/badge/Resume-Himanshu%20Rajput-343a40?labelColor=4d908e)](https://drive.google.com/file/d/16PIGJT7fmSuUiSUNAm1sNFaAYHqUCcnu/view?usp=sharing)
 
 ## ⚡ Technologies:
 ### Language :
