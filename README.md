@@ -22,6 +22,7 @@ I am Himanshu Rajput, currently in the final year of my MCA from ITM University,
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![HTML](https://img.shields.io/badge/-HTML-4a4e69?style=flat-square&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-006d77?style=flat-square&logo=CSS3)
+![LINUX](https://img.shields.io/badge/linux-v5.1.3-blue)
 
 ## 💎 Libraries & Framework :
 ![Native Android](https://img.shields.io/badge/Android-2ec4b6?style=flat-square&logo=android&logoColor=white)
